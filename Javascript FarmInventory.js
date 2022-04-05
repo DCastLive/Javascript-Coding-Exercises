@@ -21,3 +21,5 @@ function farmInventory(animal, amount , padding){
  // Here is an example use 
  
 farmInventory("cows","5",4) 
+
+// The Console displays this: The Farm has 0005 cows s in the inventory
